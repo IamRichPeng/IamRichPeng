@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @IamRichPeng
-- 👀 I’m interested in sports?
+- 👋 Hi, I’m Ruicheng Peng. You can call me Rich or Richard.
+- 👀 I’m interested in sports? video games? and trading.
 - 🌱 I’m currently pursuing my master degree in financial technology at Duke University
 - 💞️ I’m looking to collaborate on development of blockchain or other financial related modeling project
 - 📫 ruicheng.peng@duke.edu
